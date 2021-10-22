@@ -1,10 +1,5 @@
-h1, h3{
+h1, h3, h4{
     color: #F8A488;
-}
-
-p{
-    color: #45526C;
-
 }
 
 .container{
@@ -12,12 +7,14 @@ p{
     width: 1000px;
     margin: 0 auto;
     padding-top: 30pt;
+    padding-bottom: 200pt;
 }
 
 body{
     background-color: #fff;
     background-attachment: fixed;  
     font-family: sans-serif;
+    color: #45526C;
 }
 
 nav{
@@ -39,3 +36,11 @@ nav a{
     line-height: 50px;
 }
 
+img{
+    witdh: 212px;
+}
+
+#tablo{
+    text-align: center;
+    padding-left: 350px;
+}
