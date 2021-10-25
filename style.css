@@ -1,3 +1,7 @@
+html{
+    height: 100%;
+}
+
 h1, h3, h4{
     color: #F8A488;
 }
@@ -7,6 +11,7 @@ h1, h3, h4{
     width: 1000px;
     margin: 0 auto;
     padding-top: 30pt;
+    height: 100%;
     
 }
 
@@ -15,6 +20,8 @@ body{
     background-attachment: fixed;  
     font-family: sans-serif;
     color: #45526C;
+    font-weight: bold;
+    
 }
 
 nav{
@@ -38,9 +45,12 @@ nav a{
 
 img{
     border-radius: 10%;
+    box-shadow: 3px 3px grey;
 }
 
 .tablo{
     text-align: center;
     margin: auto;
 }
+
+
