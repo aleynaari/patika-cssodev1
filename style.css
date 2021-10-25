@@ -36,7 +36,9 @@ nav a{
     line-height: 50px;
 }
 
-
+img{
+    border-radius: 10%;
+}
 
 .tablo{
     text-align: center;
